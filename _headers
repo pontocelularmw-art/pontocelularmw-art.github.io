@@ -1,0 +1,32 @@
+/*
+  X-Content-Type-Options: nosniff
+
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/favicon.ico
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/favicon.png
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/apple-touch-icon.png
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/site.webmanifest
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/imagens/favicon-16x16.png
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/imagens/favicon-32x32.png
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/imagens/favicon-48x48.png
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/imagens/icon-192x192.png
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/imagens/icon-512x512.png
+  Cache-Control: no-cache, no-store, must-revalidate
