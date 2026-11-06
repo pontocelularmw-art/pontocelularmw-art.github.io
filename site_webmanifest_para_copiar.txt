@@ -1,0 +1,25 @@
+{
+  "name": "Ponto Celular",
+  "short_name": "Ponto Celular",
+  "description": "Ponto Celular — smartphones, acessórios e serviços.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0C16",
+  "theme_color": "#060390",
+  "icons": [
+    {
+      "src": "/imagens/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/imagens/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
